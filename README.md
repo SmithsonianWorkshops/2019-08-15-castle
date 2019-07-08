@@ -1,3 +1,3 @@
-# Data Carpentry Workshop at Smithsonian Castle Library for Interns
+# Python-only Binder
 
-Course website: https://smithsonianworkshops.github.io/2019-07-09-castle-interns/
+Start on Jupyter notebook homepage: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SmithsonianWorkshops/2019-07-09-castle-interns/binder-python)

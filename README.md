@@ -1,3 +1,5 @@
-# Python-only Binder
+# OpenRefine Binder
 
-Start on Jupyter notebook homepage: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SmithsonianWorkshops/2019-07-09-castle-interns/binder-python)
+Start on Jupyter notebook homepage: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SmithsonianWorkshops/2019-07-09-castle-interns/binder-openrefine)
+
+Start in OpenRefine: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SmithsonianWorkshops/2019-07-09-castle-interns/binder-openrefine?urlpath=openrefine)

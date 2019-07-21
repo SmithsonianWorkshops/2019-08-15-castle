@@ -2,20 +2,20 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
                       # Be sure to update the Carpentry type in _config.yml as well.  
-venue: "Data Carpentry Workshop for Smithsonian Interns"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "Quarterly SI Data Carpentry: Summer 2019 Edition"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "1000 Jefferson Dr SW, Washington, DC 20560"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latlng: "38.888778, -77.025991"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "July 9-10, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Aug 15-16, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2019-07-09      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2019-07-10        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Mirian Tsuchiya","Jen Hammock","Jennifer Giaccai","Mike Trizna","Luis Villanueva"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Rebecca Dikow","Vanessa Gonzalez","Matt Kweskin","Sue Zwicker"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+startdate: 2019-08-15      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2019-08-16        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["SI Carpentries"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["si-datascience@si.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
-eventbrite: 63905258348          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}

@@ -120,7 +120,7 @@ SPECIAL REQUIREMENTS
 Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. <strong>This computer must be able to connect to the Smithsonian's SI-Staff wifi network which requires an SI network account.</strong> They should have a few specific software packages installed (listed below).
+  <strong>Requirements:</strong> Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. <strong>This computer must be able to connect to the Smithsonian's SI-Staff wifi network which requires an SI network account.</strong> They should have a few specific software packages installed (listed below). <strong>We will  hold a special pre-workshop installation help session for registrants with installation issues.</strong>
 </p>
 
 {% comment%}
@@ -316,7 +316,7 @@ please preview your site before committing, and make sure to run
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
-  <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
+  <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>. <strong>We will  hold a special pre-workshop installation help session for registrants with installation issues.</strong>
 </p>
 
 <div id="python"> {% comment %} Start of 'Python' section. Remove the third paragraph if

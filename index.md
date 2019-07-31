@@ -15,7 +15,7 @@ instructor: ["SI Carpentries"] # boxed, comma-separated list of instructors' nam
 helper: ["TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["si-datascience@si.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
-eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite: 66217053991          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -120,8 +120,7 @@ SPECIAL REQUIREMENTS
 Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> <strong><em>Participants must bring a laptop.</em></strong> with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>). Contact si-datascience@si.edu if this a problem, and we can arrange for a loaner or alternative solution.
+  <strong>Requirements:</strong> Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. <strong>This computer must be able to connect to the Smithsonian's SI-Staff wifi network which requires an SI network account.</strong> They should have a few specific software packages installed (listed below). <strong>We will  hold a special pre-workshop installation help session for registrants with installation issues.</strong>
 </p>
 
 {% comment%}
@@ -191,6 +190,7 @@ This block includes the Eventbrite registration widget if
 are not using Eventbrite, or leave it in, since it will not be
 displayed if the 'eventbrite' field in the header is not set.
 {% endcomment %}
+<strong>Registration will open on Thursday, August 1, at 10 AM EDT: <a href='https://www.eventbrite.com/e/quarterly-si-data-carpentry-summer-2019-edition-tickets-66217053991' target='_blank'>https://www.eventbrite.com/e/quarterly-si-data-carpentry-summer-2019-edition-tickets-66217053991</a>
 {% if page.eventbrite %}
 <iframe
   src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
@@ -316,7 +316,7 @@ please preview your site before committing, and make sure to run
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
-  <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
+  <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>. <strong>We will  hold a special pre-workshop installation help session for registrants with installation issues.</strong>
 </p>
 
 <div id="python"> {% comment %} Start of 'Python' section. Remove the third paragraph if

@@ -190,7 +190,10 @@ This block includes the Eventbrite registration widget if
 are not using Eventbrite, or leave it in, since it will not be
 displayed if the 'eventbrite' field in the header is not set.
 {% endcomment %}
-<strong>Registration will open on Thursday, August 1, at 10 AM EDT: <a href='https://www.eventbrite.com/e/quarterly-si-data-carpentry-summer-2019-edition-tickets-66217053991' target='_blank'>https://www.eventbrite.com/e/quarterly-si-data-carpentry-summer-2019-edition-tickets-66217053991</a>
+<strong>This workshop has unfortunately sold out. You can join the Waitlist by clicking the "Join Waitlist" button below.<br/>
+You can also go to <a href='https://datascience.si.edu/carpentries' target='_blank'>https://datascience.si.edu/carpentries</a> 
+and click the "Sign up for the Carpentries-announce mailing list" button to be alerted when future Smithsonian Carpentries
+workshops are announced.</strong>
 {% if page.eventbrite %}
 <iframe
   src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"

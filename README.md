@@ -1,4 +1,4 @@
-# Data Carpentry Workshop at Smithsonian Castle Library for Interns
+# Data Carpentry Workshop at Smithsonian Castle Library
 
 Course website: https://smithsonianworkshops.github.io/2019-08-15-castle/
 

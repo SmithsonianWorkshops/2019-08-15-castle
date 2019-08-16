@@ -2,7 +2,7 @@ Carpentries Keeping in touch
 ================
 
 ```
-SELECT option_title, description
+SELECT option_title, description, link
 FROM carpentries_community
 ORDER BY activity_level ASC;
 ```

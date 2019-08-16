@@ -38,7 +38,7 @@ https://si-listserv.si.edu/cgi-bin/wa?SUBED1=DATA-SCIENCE&A=1
 Carpentries-Alumni Slack Channel
 --------------------------------
 
-Slack is a message board/chat system. We only set up this channel in the past week, and will be inviting all other Carpentries "alumni" on Monday, so you are all pioneers!
+Slack is a message board/chat system.
 
 1. Sign up for the Smithsonian Slack. If you already are a part of the Smithsonian Slack workspace, skip to Step #3. Go to https://smithsonian.slack.com/signup, and enter your SI email account (must be @si.edu).
 2. You will get an email from Slack, and click Confirm Email. This link will send you to a page where you will fill in your name, and set a password. After doing this, you will be logged into Slack and prompted to "Explore Slack". I recommend go through this tour if you are unfamiliar with the system.
